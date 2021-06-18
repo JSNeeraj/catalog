@@ -1,0 +1,38 @@
+body{background-color: black;}
+div.centero{
+ display: block;
+ width: 300px;
+ height: 100px;
+ text-align:left;
+ margin: 50px auto;
+ color: yellowgreen;
+ padding: 50px 50px 50px 50px;
+ }
+
+
+ h3 {text-align: center;
+    color: white; 
+    }
+
+div.topnav{color:greenyellow;
+        font-family: 'Staatliches', cursive;
+        font-size: 35px;
+        font-weight: bolder;
+        width: 100%;
+       
+
+    }
+
+
+    div.abn {
+        background-color: gray;
+        display: block;
+        width: 400px;
+        height: 400px;
+        text-align: center;
+        margin: 50px auto;
+        color: yellowgreen;
+        padding: 50px 50px 30px 50px;
+        opacity: 0.5;
+        }
+        
